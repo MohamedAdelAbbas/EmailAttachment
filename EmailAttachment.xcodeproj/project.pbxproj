@@ -13,6 +13,7 @@
 		7674D70D24B49128002D928A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7674D70C24B49128002D928A /* Assets.xcassets */; };
 		7674D71024B49128002D928A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7674D70E24B49128002D928A /* LaunchScreen.storyboard */; };
 		7674D71824B4951D002D928A /* AttachmentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7674D71724B4951D002D928A /* AttachmentTableViewController.swift */; };
+		7674D71D24B9B3F8002D928A /* MIMEType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7674D71C24B9B3F8002D928A /* MIMEType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7674D70F24B49128002D928A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7674D71124B49128002D928A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7674D71724B4951D002D928A /* AttachmentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttachmentTableViewController.swift; sourceTree = "<group>"; };
+		7674D71C24B9B3F8002D928A /* MIMEType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MIMEType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				7674D71A24B4973B002D928A /* Scenes */,
 				7674D71B24B49756002D928A /* Resources */,
 				7674D71724B4951D002D928A /* AttachmentTableViewController.swift */,
+				7674D71C24B9B3F8002D928A /* MIMEType.swift */,
 				7674D71124B49128002D928A /* Info.plist */,
 			);
 			path = EmailAttachment;
@@ -165,6 +168,7 @@
 				7674D70424B49125002D928A /* AppDelegate.swift in Sources */,
 				7674D70624B49125002D928A /* SceneDelegate.swift in Sources */,
 				7674D71824B4951D002D928A /* AttachmentTableViewController.swift in Sources */,
+				7674D71D24B9B3F8002D928A /* MIMEType.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
